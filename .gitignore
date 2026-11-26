@@ -1,0 +1,20 @@
+# Сборки, установщики и временные файлы
+/build/
+/dist/
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite
+*.sqlite3
+*.db
+.venv/
+.env
+.env.*
+.vscode/
+.idea/
+# Локальные скрипты разовой проверки и копия стороннего исходника
+/tools/update_gui.py
+/tools/make_slicer_validation.py
+/tools/make_orca_filament_test.py
+/docs/slicer_examples/cura_official_writer.py
+/PolymerModes_Updated.spec

@@ -1,0 +1,1008 @@
+[
+  {
+    "id": "doyle-01",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 420,
+      "bed_C": 100,
+      "chamber_C": 80,
+      "speed_mm_s": 15,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": 390,
+      "during_print_annealer_off": false
+    },
+    "results": {
+      "tensile_strength_MPa": 79,
+      "tensile_strength_plus_minus_MPa": 7,
+      "modulus_MPa": 2800,
+      "modulus_plus_minus_MPa": 200,
+      "crystallinity_fraction": 0.23,
+      "Tg_C": 158.8,
+      "porosity_percent": 2.6,
+      "porosity_plus_minus_percent": 1.0,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-02",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 455,
+      "bed_C": 100,
+      "chamber_C": 80,
+      "speed_mm_s": 15,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": null,
+      "during_print_annealer_off": true
+    },
+    "results": {
+      "tensile_strength_MPa": 77,
+      "tensile_strength_plus_minus_MPa": 1,
+      "modulus_MPa": 2730,
+      "modulus_plus_minus_MPa": 60,
+      "crystallinity_fraction": 0.27,
+      "Tg_C": 159.8,
+      "porosity_percent": 0.21,
+      "porosity_plus_minus_percent": 0.12,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-03",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 420,
+      "bed_C": 150,
+      "chamber_C": 80,
+      "speed_mm_s": 15,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": null,
+      "during_print_annealer_off": true
+    },
+    "results": {
+      "tensile_strength_MPa": 85,
+      "tensile_strength_plus_minus_MPa": 2,
+      "modulus_MPa": 2970,
+      "modulus_plus_minus_MPa": 60,
+      "crystallinity_fraction": 0.25,
+      "Tg_C": 160.8,
+      "porosity_percent": 0.5,
+      "porosity_plus_minus_percent": 0.2,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-04",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 455,
+      "bed_C": 150,
+      "chamber_C": 80,
+      "speed_mm_s": 15,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": 390,
+      "during_print_annealer_off": false
+    },
+    "results": {
+      "tensile_strength_MPa": 91,
+      "tensile_strength_plus_minus_MPa": 2,
+      "modulus_MPa": 3020,
+      "modulus_plus_minus_MPa": 60,
+      "crystallinity_fraction": 0.26,
+      "Tg_C": 161.2,
+      "porosity_percent": 0.9,
+      "porosity_plus_minus_percent": 0.3,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-05",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 420,
+      "bed_C": 100,
+      "chamber_C": 100,
+      "speed_mm_s": 15,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": null,
+      "during_print_annealer_off": true
+    },
+    "results": {
+      "tensile_strength_MPa": 72,
+      "tensile_strength_plus_minus_MPa": 5,
+      "modulus_MPa": 2600,
+      "modulus_plus_minus_MPa": 200,
+      "crystallinity_fraction": 0.22,
+      "Tg_C": 158.4,
+      "porosity_percent": 0.5,
+      "porosity_plus_minus_percent": 0.2,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-06",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 455,
+      "bed_C": 100,
+      "chamber_C": 100,
+      "speed_mm_s": 15,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": 390,
+      "during_print_annealer_off": false
+    },
+    "results": {
+      "tensile_strength_MPa": 84,
+      "tensile_strength_plus_minus_MPa": 5,
+      "modulus_MPa": 2970,
+      "modulus_plus_minus_MPa": 90,
+      "crystallinity_fraction": 0.26,
+      "Tg_C": 159.5,
+      "porosity_percent": 3,
+      "porosity_plus_minus_percent": 1.1,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-07",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 420,
+      "bed_C": 150,
+      "chamber_C": 100,
+      "speed_mm_s": 15,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": 390,
+      "during_print_annealer_off": false
+    },
+    "results": {
+      "tensile_strength_MPa": 86,
+      "tensile_strength_plus_minus_MPa": 3,
+      "modulus_MPa": 3050,
+      "modulus_plus_minus_MPa": 90,
+      "crystallinity_fraction": 0.27,
+      "Tg_C": 161.1,
+      "porosity_percent": 0.4,
+      "porosity_plus_minus_percent": 0.2,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-08",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 455,
+      "bed_C": 150,
+      "chamber_C": 100,
+      "speed_mm_s": 15,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": null,
+      "during_print_annealer_off": true
+    },
+    "results": {
+      "tensile_strength_MPa": 87.7,
+      "tensile_strength_plus_minus_MPa": 1.1,
+      "modulus_MPa": 3300,
+      "modulus_plus_minus_MPa": 600,
+      "crystallinity_fraction": 0.26,
+      "Tg_C": 160.7,
+      "porosity_percent": 2.2,
+      "porosity_plus_minus_percent": 1.0,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-09",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 420,
+      "bed_C": 100,
+      "chamber_C": 80,
+      "speed_mm_s": 60,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": null,
+      "during_print_annealer_off": true
+    },
+    "results": {
+      "tensile_strength_MPa": 73,
+      "tensile_strength_plus_minus_MPa": 2,
+      "modulus_MPa": 2700,
+      "modulus_plus_minus_MPa": 200,
+      "crystallinity_fraction": 0.2,
+      "Tg_C": 158.3,
+      "porosity_percent": 0.46,
+      "porosity_plus_minus_percent": 0.07,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-10",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 455,
+      "bed_C": 100,
+      "chamber_C": 80,
+      "speed_mm_s": 60,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": 390,
+      "during_print_annealer_off": false
+    },
+    "results": {
+      "tensile_strength_MPa": 77,
+      "tensile_strength_plus_minus_MPa": 2,
+      "modulus_MPa": 2700,
+      "modulus_plus_minus_MPa": 50,
+      "crystallinity_fraction": 0.24,
+      "Tg_C": 159.7,
+      "porosity_percent": 3.8,
+      "porosity_plus_minus_percent": 1.1,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-11",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 420,
+      "bed_C": 150,
+      "chamber_C": 80,
+      "speed_mm_s": 60,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": 390,
+      "during_print_annealer_off": false
+    },
+    "results": {
+      "tensile_strength_MPa": 79,
+      "tensile_strength_plus_minus_MPa": 3,
+      "modulus_MPa": 2870,
+      "modulus_plus_minus_MPa": 60,
+      "crystallinity_fraction": 0.24,
+      "Tg_C": 160.9,
+      "porosity_percent": 1,
+      "porosity_plus_minus_percent": 0.3,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-12",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 455,
+      "bed_C": 150,
+      "chamber_C": 80,
+      "speed_mm_s": 60,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": null,
+      "during_print_annealer_off": true
+    },
+    "results": {
+      "tensile_strength_MPa": 88.7,
+      "tensile_strength_plus_minus_MPa": 1.4,
+      "modulus_MPa": 3130,
+      "modulus_plus_minus_MPa": 40,
+      "crystallinity_fraction": 0.23,
+      "Tg_C": 160.8,
+      "porosity_percent": 2.7,
+      "porosity_plus_minus_percent": 0.5,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-13",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 420,
+      "bed_C": 100,
+      "chamber_C": 100,
+      "speed_mm_s": 60,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": 390,
+      "during_print_annealer_off": false
+    },
+    "results": {
+      "tensile_strength_MPa": 72,
+      "tensile_strength_plus_minus_MPa": 4,
+      "modulus_MPa": 2600,
+      "modulus_plus_minus_MPa": 120,
+      "crystallinity_fraction": 0.24,
+      "Tg_C": 159.6,
+      "porosity_percent": 10.8,
+      "porosity_plus_minus_percent": 1.4,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-14",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 455,
+      "bed_C": 100,
+      "chamber_C": 100,
+      "speed_mm_s": 60,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": null,
+      "during_print_annealer_off": true
+    },
+    "results": {
+      "tensile_strength_MPa": 81,
+      "tensile_strength_plus_minus_MPa": 4,
+      "modulus_MPa": 3010,
+      "modulus_plus_minus_MPa": 90,
+      "crystallinity_fraction": 0.23,
+      "Tg_C": 159.3,
+      "porosity_percent": 0.7,
+      "porosity_plus_minus_percent": 0.2,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-15",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 420,
+      "bed_C": 150,
+      "chamber_C": 100,
+      "speed_mm_s": 60,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": null,
+      "during_print_annealer_off": true
+    },
+    "results": {
+      "tensile_strength_MPa": 75,
+      "tensile_strength_plus_minus_MPa": 2,
+      "modulus_MPa": 2710,
+      "modulus_plus_minus_MPa": 30,
+      "crystallinity_fraction": 0.25,
+      "Tg_C": 160.9,
+      "porosity_percent": 2.8,
+      "porosity_plus_minus_percent": 0.5,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-16",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 1–2",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, печать XY; DMTA 30×10×3 мм",
+    "parameters": {
+      "nozzle_C": 455,
+      "bed_C": 150,
+      "chamber_C": 100,
+      "speed_mm_s": 60,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "raster": "±45° между слоями",
+      "during_print_annealer_C": 390,
+      "during_print_annealer_off": false
+    },
+    "results": {
+      "tensile_strength_MPa": 86.7,
+      "tensile_strength_plus_minus_MPa": 1.4,
+      "modulus_MPa": 3010,
+      "modulus_plus_minus_MPa": 40,
+      "crystallinity_fraction": 0.26,
+      "Tg_C": 161.1,
+      "porosity_percent": 1.6,
+      "porosity_plus_minus_percent": 0.3,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444",
+      "https://zenodo.org/records/14864777"
+    ],
+    "notes": "Table 2; ± передано как в публикации. Не установлены ширина линии и сопло. Температура 390 °C относится к нагревателю при печати, а не температуре камеры или последующему отжигу."
+  },
+  {
+    "id": "doyle-validation-1",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 3–4",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, XY",
+    "parameters": {
+      "nozzle_C": 440,
+      "bed_C": 150,
+      "chamber_C": 100,
+      "speed_mm_s": 15,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "during_print_annealer_off": true
+    },
+    "results": {
+      "tensile_strength_MPa": 91.4,
+      "tensile_strength_sd_MPa": 0.8,
+      "modulus_MPa": 2900,
+      "modulus_sd_MPa": 200
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444"
+    ],
+    "notes": "Проверка модели авторов; не проверка нашей модели прочности."
+  },
+  {
+    "id": "doyle-validation-2",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Doyle et al. 2025, Table 3–4",
+    "material": "PEEK EVONIK INFINAM 9359 F",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "ISO 527-2 тип 1BA, XY",
+    "parameters": {
+      "nozzle_C": 430,
+      "bed_C": 100,
+      "chamber_C": 100,
+      "speed_mm_s": 15,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100,
+      "during_print_annealer_off": true
+    },
+    "results": {
+      "tensile_strength_MPa": 80.5,
+      "tensile_strength_sd_MPa": 0.8,
+      "modulus_MPa": 2740,
+      "modulus_sd_MPa": 90
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym17111444"
+    ],
+    "notes": "Проверка модели авторов; не проверка нашей модели прочности."
+  },
+  {
+    "id": "shrestha-seqens",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Shrestha et al. 2025, Tables 1–2",
+    "material": "SEQENS IMPEKK-3D-F (60/40)",
+    "category": "PEKK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "DMA: 30×15×3 мм; сжатие: цилиндр Ø12,7×25,4 мм",
+    "parameters": {
+      "nozzle_C": 400,
+      "bed_C": 120,
+      "chamber_C": 120,
+      "speed_mm_s": 20,
+      "height_mm": 0.1,
+      "width_mm": 0.4,
+      "nozzle_diameter_mm": 0.4,
+      "infill_percent": 100,
+      "raster": "±45°",
+      "orientation": "XY",
+      "extrusion_multiplier": 1
+    },
+    "results": {
+      "individual_result": null,
+      "study_finding": "PEKK 3DA после отжига: кристалличность до 27%; результат зависит от условий отжига и не относится автоматически к остальным материалам"
+    },
+    "sources": [
+      "https://doi.org/10.1002/mame.202500076"
+    ],
+    "notes": "Параметры печати из таблицы 2; данные отдельных режимов отжига и испытаний не оцифрованы."
+  },
+  {
+    "id": "shrestha-pekk-c",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Shrestha et al. 2025, Tables 1–2",
+    "material": "3DXTECH ThermaX PEKK-C (70/30)",
+    "category": "PEKK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "DMA: 30×15×3 мм; сжатие: цилиндр Ø12,7×25,4 мм",
+    "parameters": {
+      "nozzle_C": 400,
+      "bed_C": 120,
+      "chamber_C": 120,
+      "speed_mm_s": 20,
+      "height_mm": 0.1,
+      "width_mm": 0.4,
+      "nozzle_diameter_mm": 0.4,
+      "infill_percent": 100,
+      "raster": "±45°",
+      "orientation": "XY",
+      "extrusion_multiplier": 1
+    },
+    "results": {
+      "individual_result": null,
+      "study_finding": null
+    },
+    "sources": [
+      "https://doi.org/10.1002/mame.202500076"
+    ],
+    "notes": "Параметры печати из таблицы 2; данные отдельных режимов отжига и испытаний не оцифрованы."
+  },
+  {
+    "id": "shrestha-vestakeep",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "Shrestha et al. 2025, Tables 1–2",
+    "material": "EVONIK VESTAKEEP i4 3DF-T",
+    "category": "PEEK",
+    "printer": "CreatBot PEEK-300",
+    "specimen": "DMA: 30×15×3 мм; сжатие: цилиндр Ø12,7×25,4 мм",
+    "parameters": {
+      "nozzle_C": 440,
+      "bed_C": 140,
+      "chamber_C": 120,
+      "speed_mm_s": 20,
+      "height_mm": 0.1,
+      "width_mm": 0.4,
+      "nozzle_diameter_mm": 0.4,
+      "infill_percent": 100,
+      "raster": "±45°",
+      "orientation": "XY",
+      "extrusion_multiplier": 1
+    },
+    "results": {
+      "individual_result": null,
+      "study_finding": null
+    },
+    "sources": [
+      "https://doi.org/10.1002/mame.202500076"
+    ],
+    "notes": "Параметры печати из таблицы 2; данные отдельных режимов отжига и испытаний не оцифрованы."
+  },
+  {
+    "id": "mccrickard-100-0",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "McCrickard et al. 2026, Tables 2 and 5",
+    "material": "PEEK/PEI 100/0 мас.%; лабораторный филамент: VESTAKEEP 2000FP / ULTEM 1010P200",
+    "category": "PEEK",
+    "printer": "SpiderBot 4.0 HT",
+    "specimen": "ISO 527-2 тип 5A",
+    "parameters": {
+      "nozzle_C": 380,
+      "bed_C": 180,
+      "chamber_C": 75,
+      "IR_heaters_C": 450,
+      "speed_mm_s": 30,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100
+    },
+    "results": {
+      "ultimate_tensile_strength_MPa": 74.5,
+      "ultimate_tensile_strength_sd_MPa": 4.04,
+      "modulus_MPa": 1428,
+      "modulus_sd_MPa": 41.8,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym18010113"
+    ],
+    "notes": "Из порошка изготовлен филамент; температуры IR-нагревателей и камеры различаются. Значения относятся к композициям исследования, а не к коммерческим катушкам."
+  },
+  {
+    "id": "mccrickard-80-20",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "McCrickard et al. 2026, Tables 2 and 5",
+    "material": "PEEK/PEI 80/20 мас.%; лабораторный филамент: VESTAKEEP 2000FP / ULTEM 1010P200",
+    "category": "PEEK/PEI смесь",
+    "printer": "SpiderBot 4.0 HT",
+    "specimen": "ISO 527-2 тип 5A",
+    "parameters": {
+      "nozzle_C": 380,
+      "bed_C": 180,
+      "chamber_C": 75,
+      "IR_heaters_C": 450,
+      "speed_mm_s": 30,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100
+    },
+    "results": {
+      "ultimate_tensile_strength_MPa": 75.6,
+      "ultimate_tensile_strength_sd_MPa": 2.4,
+      "modulus_MPa": 1338,
+      "modulus_sd_MPa": 40.9,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym18010113"
+    ],
+    "notes": "Из порошка изготовлен филамент; температуры IR-нагревателей и камеры различаются. Значения относятся к композициям исследования, а не к коммерческим катушкам."
+  },
+  {
+    "id": "mccrickard-70-30",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "McCrickard et al. 2026, Tables 2 and 5",
+    "material": "PEEK/PEI 70/30 мас.%; лабораторный филамент: VESTAKEEP 2000FP / ULTEM 1010P200",
+    "category": "PEEK/PEI смесь",
+    "printer": "SpiderBot 4.0 HT",
+    "specimen": "ISO 527-2 тип 5A",
+    "parameters": {
+      "nozzle_C": 380,
+      "bed_C": 180,
+      "chamber_C": 75,
+      "IR_heaters_C": 450,
+      "speed_mm_s": 30,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100
+    },
+    "results": {
+      "ultimate_tensile_strength_MPa": 70.4,
+      "ultimate_tensile_strength_sd_MPa": 6.4,
+      "modulus_MPa": 1198,
+      "modulus_sd_MPa": 65.9,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym18010113"
+    ],
+    "notes": "Из порошка изготовлен филамент; температуры IR-нагревателей и камеры различаются. Значения относятся к композициям исследования, а не к коммерческим катушкам."
+  },
+  {
+    "id": "mccrickard-60-40",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "McCrickard et al. 2026, Tables 2 and 5",
+    "material": "PEEK/PEI 60/40 мас.%; лабораторный филамент: VESTAKEEP 2000FP / ULTEM 1010P200",
+    "category": "PEEK/PEI смесь",
+    "printer": "SpiderBot 4.0 HT",
+    "specimen": "ISO 527-2 тип 5A",
+    "parameters": {
+      "nozzle_C": 380,
+      "bed_C": 180,
+      "chamber_C": 75,
+      "IR_heaters_C": 450,
+      "speed_mm_s": 30,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100
+    },
+    "results": {
+      "ultimate_tensile_strength_MPa": 70.9,
+      "ultimate_tensile_strength_sd_MPa": 2.4,
+      "modulus_MPa": 1112,
+      "modulus_sd_MPa": 38.3,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym18010113"
+    ],
+    "notes": "Из порошка изготовлен филамент; температуры IR-нагревателей и камеры различаются. Значения относятся к композициям исследования, а не к коммерческим катушкам."
+  },
+  {
+    "id": "mccrickard-50-50",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "McCrickard et al. 2026, Tables 2 and 5",
+    "material": "PEEK/PEI 50/50 мас.%; лабораторный филамент: VESTAKEEP 2000FP / ULTEM 1010P200",
+    "category": "PEEK/PEI смесь",
+    "printer": "SpiderBot 4.0 HT",
+    "specimen": "ISO 527-2 тип 5A",
+    "parameters": {
+      "nozzle_C": 380,
+      "bed_C": 180,
+      "chamber_C": 75,
+      "IR_heaters_C": 450,
+      "speed_mm_s": 30,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100
+    },
+    "results": {
+      "ultimate_tensile_strength_MPa": 58.4,
+      "ultimate_tensile_strength_sd_MPa": 6.2,
+      "modulus_MPa": 1039,
+      "modulus_sd_MPa": 78.4,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym18010113"
+    ],
+    "notes": "Из порошка изготовлен филамент; температуры IR-нагревателей и камеры различаются. Значения относятся к композициям исследования, а не к коммерческим катушкам."
+  },
+  {
+    "id": "mccrickard-40-60",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "McCrickard et al. 2026, Tables 2 and 5",
+    "material": "PEEK/PEI 40/60 мас.%; лабораторный филамент: VESTAKEEP 2000FP / ULTEM 1010P200",
+    "category": "PEEK/PEI смесь",
+    "printer": "SpiderBot 4.0 HT",
+    "specimen": "ISO 527-2 тип 5A",
+    "parameters": {
+      "nozzle_C": 380,
+      "bed_C": 180,
+      "chamber_C": 75,
+      "IR_heaters_C": 450,
+      "speed_mm_s": 30,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100
+    },
+    "results": {
+      "ultimate_tensile_strength_MPa": 82.6,
+      "ultimate_tensile_strength_sd_MPa": 5,
+      "modulus_MPa": 1280,
+      "modulus_sd_MPa": 43.5,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym18010113"
+    ],
+    "notes": "Из порошка изготовлен филамент; температуры IR-нагревателей и камеры различаются. Значения относятся к композициям исследования, а не к коммерческим катушкам."
+  },
+  {
+    "id": "mccrickard-20-80",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "McCrickard et al. 2026, Tables 2 and 5",
+    "material": "PEEK/PEI 20/80 мас.%; лабораторный филамент: VESTAKEEP 2000FP / ULTEM 1010P200",
+    "category": "PEEK/PEI смесь",
+    "printer": "SpiderBot 4.0 HT",
+    "specimen": "ISO 527-2 тип 5A",
+    "parameters": {
+      "nozzle_C": 380,
+      "bed_C": 180,
+      "chamber_C": 75,
+      "IR_heaters_C": 450,
+      "speed_mm_s": 30,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100
+    },
+    "results": {
+      "ultimate_tensile_strength_MPa": 80.3,
+      "ultimate_tensile_strength_sd_MPa": 5.8,
+      "modulus_MPa": 1238,
+      "modulus_sd_MPa": 36.7,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym18010113"
+    ],
+    "notes": "Из порошка изготовлен филамент; температуры IR-нагревателей и камеры различаются. Значения относятся к композициям исследования, а не к коммерческим катушкам."
+  },
+  {
+    "id": "mccrickard-0-100",
+    "origin": "эксперимент сторонних исследователей",
+    "study": "McCrickard et al. 2026, Tables 2 and 5",
+    "material": "PEEK/PEI 0/100 мас.%; лабораторный филамент: VESTAKEEP 2000FP / ULTEM 1010P200",
+    "category": "PEI",
+    "printer": "SpiderBot 4.0 HT",
+    "specimen": "ISO 527-2 тип 5A",
+    "parameters": {
+      "nozzle_C": 380,
+      "bed_C": 180,
+      "chamber_C": 75,
+      "IR_heaters_C": 450,
+      "speed_mm_s": 30,
+      "height_mm": 0.2,
+      "width_mm": null,
+      "nozzle_diameter_mm": null,
+      "infill_percent": 100
+    },
+    "results": {
+      "ultimate_tensile_strength_MPa": 94.5,
+      "ultimate_tensile_strength_sd_MPa": 5.97,
+      "modulus_MPa": 1342,
+      "modulus_sd_MPa": 32.2,
+      "tensile_n": 5
+    },
+    "sources": [
+      "https://doi.org/10.3390/polym18010113"
+    ],
+    "notes": "Из порошка изготовлен филамент; температуры IR-нагревателей и камеры различаются. Значения относятся к композициям исследования, а не к коммерческим катушкам."
+  }
+]

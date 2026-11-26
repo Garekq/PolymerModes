@@ -1,0 +1,14 @@
+{
+	"from": "User",
+	"inherits": "0.20mm Standard @BBL A1",
+	"layer_height": "0.18",
+	"name": "Polymer Test Source",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "Polymer Test Source",
+	"version": "2.8.0.16"
+}

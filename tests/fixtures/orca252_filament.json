@@ -1,0 +1,18 @@
+{
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_settings_id": [
+		"PolymerModes PRELIMINARY"
+	],
+	"from": "User",
+	"hot_plate_temp": [
+		"61"
+	],
+	"inherits": "Bambu PLA Basic @BBL A1",
+	"name": "PolymerModes PRELIMINARY",
+	"nozzle_temperature": [
+		"213"
+	],
+	"version": "2.8.0.16"
+}
